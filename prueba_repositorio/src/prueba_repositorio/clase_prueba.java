@@ -5,6 +5,7 @@ public class clase_prueba {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hola caracola");
+		System.out.println("Que pasa calabaza?");
 
 	}
 
